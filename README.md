@@ -21,7 +21,7 @@ pip3 install -r requirements.txt
 
 ## Screenshots / Video
 
-![App Screenshot](screenshot/pic.gif)
+![App Screenshot](screenshot/pic1.gif)
 
 ## Launch to play with a friend 🧑🏼‍🤝‍🧑🏻:
 
@@ -36,4 +36,4 @@ TicTacToe vs Comp.py
 
 ## Screenshots Winning strategy
 
-![App Screenshot](img/algoritm.gif)
+![App Screenshot](img/algoritm.png)
